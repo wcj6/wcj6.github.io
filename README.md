@@ -1,24 +1,21 @@
-# GuangLun2000.github.io
+# wcj6.github.io
 
-GuangLun (光轮) means Nimbus in Chinese ✨
+Just enjoy life and research✨
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**. 
+Here is **Chunjiang Wang (Ethan, 王春江)**. 
 
 This is the repository for my personal website.
 
 ## Update and News
 
-- **Sep 2024:** This Github Page has reached **500+ Stars**🌟 Thank you for your support!!!
-- **May 2023:** [Jekyll website building videos](https://www.bilibili.com/video/BV1ja4y1G7tX/) have been uploaded to Bilibili (小白建站视频)
-- **April 2023:** [Website building tutorials](https://caihanlin.com/blogs/web/) have been post on my blog (建站完全指南)
-- **Dec. 2022:** My personal website have been implemented in [caihanlin.com](https://caihanlin.com)
-- **Oct. 2022:** This Github Page have been built based on [Jason Ansel's site](https://github.com/jansel/jansel.github.io).
+- **Sep. 2022:** I begin my Ph.D. study in [Miracle Group](https://miracle.ustc.edu.cn/main.htm).
+
 
 ## Star History
 
 **If you like it, please STAR it! 🥰**
-[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://www.star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=wcj6/wcj6.github.io&type=Date)](https://www.star-history.com/#wcj6/wcj6.github.io&Date)
 
 ## Statement
 
-© 2024 Hanlin Cai. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
+© 2025 Chunjiang Wang. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). Source code for this website can be found [here](https://github.com/wcj6/wcj6.github.io).
