@@ -8,7 +8,7 @@ title: Awards
 
 ## Scholarships
 
-- Graduate Scholarship - First Prize, USTC, 2022, 2023,2024.
+- Graduate Scholarship - First Prize, USTC, 2022, 2023, 2024.
 - National Scholarship, Ministry of Education of China, 2021.
 - Graduate Scholarship - First Prize, TJU, 2019, 2021.
 - Tianjin Municipal People's Government Scholarship, 2018. 
