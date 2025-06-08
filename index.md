@@ -8,21 +8,11 @@ layout: page
 
 Hi! Here is **Chunjiang Wang (Ethan, 王春江)**.<br>
 
-I am a third-year Ph.D student in the [Miracle Group](https://miracle.ustc.edu.cn/main.htm) at the School of Biomedical Engineering, USTC, supervised by [Prof. S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en). I received my M.S. from the Intelligence and Computing Department of Tianjin University in 2022, under the supervision of [Prof. Shanjiang Tang](https://scholar.google.com.sg/citations?user=B3-5FJUAAAAJ&hl=en). Before that, I got B.E. from the School of Computer Science and Technology of Tiangong University in 2019.
+I am currently a third-year Ph.D. student in the [MIRACLE Lab](https://miracle.ustc.edu.cn/main.htm) at the School of Biomedical Engineering, University of Science and Technology of China (USTC), advised by [Prof. S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en). I received my M.S. degree from the College of Intelligence and Computing, Tianjin University in 2022, where I was advised by [Prof. Shanjiang Tang](https://scholar.google.com.sg/citations?user=B3-5FJUAAAAJ&hl=en). Prior to that, I earned my B.E. degree from the School of Computer Science and Technology, Tiangong University in 2019.
 
+My research interests center around **trustworthy medical image analysis, vision-language alignment, and multi-modal fusion**. My work aims to develop reliable and robust medical AI systems by bridging the gap between visual and linguistic modalities, enhancing interpretability, and ensuring trustworthy decision-making in clinical scenarios.
 
----
-
-## Research Interests
-
-- Trustworthy Medical Image Analysis
-- Vision-Language Alignment
-- Multi-Modal Fusion
-
----
-
-
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **chunjiang_wang [at] mail.ustc.edu.cn**
+I am always open to discussions and collaborations. Feel free to reach out to me at: chunjiang_wang [at] mail.ustc.edu.cn
 
 ---
 
